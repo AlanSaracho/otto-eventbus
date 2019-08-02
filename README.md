@@ -1,4 +1,4 @@
-![Alt Text](https://raw.githubusercontent.com/AlanSaracho/otto-eventbus/master/images/tenor.gif)
+![Alt Text](https://raw.githubusercontent.com/AlanSaracho/otto-eventbus/master/tenor.gif)
 
 # Otto EventBus
 Otto EventBus is a simple way to add code smells into your projects!
